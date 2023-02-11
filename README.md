@@ -21,10 +21,15 @@ Sinon, telecharger android studio afin de pouvoir crée un emulator android qui 
 
 - Une fois l'application telecharger, ouvrer l'application a l'emplacement de votre projet et cliquer sur "Device Manager" en haut a droite d'android studio.
 <img src="assets/Device_Manager.png">
+
 - Ensuite, vous devriez voir un message "Create virtual device", laissez le telephone de base (Pixel 2) et cliquez sur next.
+
 - Choisisser l'API level 27 (Oreo) et cliquez sur next.
+
 - allez dans "Show Advanced Settings" et verifier que votre Camera Back et bien en "VirtualScene" et vous pouver finalisez votre emulateur et on peut fermer Android Studio.
+
 - lorsque vous allez lancez votre telephone, une barre verticale apparaitra avec une icone composer de trois point ("...").
+
 - cliquer dessus, allez dans l'onglet settings, advanced puis modifier "autoselect" par "Renderer maximum (up to OpenGL ES 3.1)"
 
 # Afficher des objets en AR (sphere, rectangle, triangle...)
