@@ -24,7 +24,7 @@ Sinon, téléchargez Android Studio afin de pouvoir créer un emulateur android 
 
 - Ensuite, vous devriez voir un message "Create virtual device", laissez le téléphone de base (Pixel 2) et cliquez sur next.
 
-- Choisissez l'API level 27 (Oreo) et cliquez sur next.
+- Choisissez l'API level 29 (Q) et cliquez sur next.
 
 - Allez dans "Show Advanced Settings" et vérifiez que votre "Camera Back" soit bien en "VirtualScene" et vous pouvez finaliser votre émulateur et on peut fermer Android Studio.
 
